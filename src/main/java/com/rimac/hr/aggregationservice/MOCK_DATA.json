@@ -1,0 +1,122 @@
+[
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 201.7,
+        "odometer": 4376.5,
+        "drivingTime": 818720707.9,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 227.3,
+        "odometer": 3499.1,
+        "drivingTime": 362971225.2,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": null,
+        "odometer": null,
+        "drivingTime": null,
+        "isCharging": 1.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 242.8,
+        "odometer": 3228.2,
+        "drivingTime": 888276015.3,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 227.7,
+        "odometer": 4985.8,
+        "drivingTime": 818152762.4,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 348.8,
+        "odometer": 4112.1,
+        "drivingTime": 682852861.5,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 240.5,
+        "odometer": 3905.6,
+        "drivingTime": 909749491.9,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": null,
+        "odometer": null,
+        "drivingTime": null,
+        "isCharging": 1.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 86.5,
+        "odometer": 1845.7,
+        "drivingTime": 810462581.9,
+        "isCharging": 0.0
+      }
+    }
+  },
+  {
+    "TelemetrySample": {
+      "vehicleId": "UASD0-13fas-asdd23-hjg3Ko-Aldsng",
+      "recordedAt": 123310,
+      "signalValues": {
+        "currentSpeed": 319.6,
+        "odometer": 2333.0,
+        "drivingTime": 929010137.9,
+        "isCharging": 0.0
+      }
+    }
+  }
+]
