@@ -1,4 +1,4 @@
-# Rimac Assignment - Aggregation Service
+# Aggregation Service
 
 ## How to run
 
